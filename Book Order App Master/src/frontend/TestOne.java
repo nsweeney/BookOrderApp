@@ -6,7 +6,7 @@ import businesslayer.Department;
 import businesslayer.Employee;
 import businesslayer.Person;
 
-public class HelloWorld {
+public class TestOne {
 
 	public static void main(String[] args) {
 
